@@ -1,0 +1,30 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+.list-box {
+  width: 500px;
+}
+
+ul {
+  padding-left: 0;
+}
+
+.nameItem li {
+  list-style-type: none;
+  box-shadow:  0 3px 6px lightgrey;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+button {
+  margin-right: 5px;
+  border: none;
+  background: #efefef;
+}
